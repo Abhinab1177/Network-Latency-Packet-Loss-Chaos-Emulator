@@ -54,6 +54,29 @@ The project uses predefined **project-defined simulation parameters**.
 | Wi-Fi | 20 ms | 5 ms | 1% |
 | Satellite | 600 ms | 50 ms | 2% |
 > **Note:** These values are project-defined simulation parameters and are not measurements of real-world network conditions.
+### Latency
+
+<p align="center">
+  <img src="docs/images/09_profiles/01_latency_chart.png"
+       alt="Latency Profile Chart"
+       width="700">
+</p>
+
+### Packet Loss
+
+<p align="center">
+  <img src="docs/images/09_profiles/02_packet_loss_chart.png"
+       alt="Packet Loss Profile Chart"
+       width="700">
+</p>
+
+### Jitter
+
+<p align="center">
+  <img src="docs/images/09_profiles/03_jitter_chart.png"
+       alt="Jitter Profile Chart"
+       width="700">
+</p>
 ---
 ## Project Structure
 ```text
